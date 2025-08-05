@@ -6,7 +6,7 @@ This document summarizes the process of building a **simple and scalable 3-tier 
 
 ## 📸 Architecture Diagram
 
-![AWS 3-Tier Architecture](AWS-Architecture-Web-Diagram.png)
+![AWS 3-Tier Architecture](images/AWS-Architecture-Web-Diagram.png)
 
 ---
 
